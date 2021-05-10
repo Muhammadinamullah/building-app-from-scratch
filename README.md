@@ -1,6 +1,7 @@
 # flutter_course
 
-A new Flutter project.
+-> A new Flutter project.
+-> Building Application from scratch.
 
 ## Getting Started
 
